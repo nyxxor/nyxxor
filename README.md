@@ -1,6 +1,5 @@
 ## Hi there 👋
-### 🌐 Find me here:
-[![LinkedIn](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg)](https://pl.linkedin.com/in/dglowa)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Daniel%20Głowa-0A66C2?logo=linkedin&logoColor=white)](https://pl.linkedin.com/in/dglowa)
               
 <!--
 **nyxxor/nyxxor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
